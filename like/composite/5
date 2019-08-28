@@ -1,0 +1,1 @@
+_VAR_MULTI_.request("favorites/create", _ARGS_)

@@ -1,0 +1,1 @@
+_VAR_TWEETS_ = _VAR_MULTI_.request('search/tweets' , _ARGS_)

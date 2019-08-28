@@ -1,0 +1,1 @@
+_VAR_MULTI_.request("friendships/destroy", _ARGS_)

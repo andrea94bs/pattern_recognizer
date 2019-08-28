@@ -1,0 +1,5 @@
+_STAT_MULTI_
+_VAR_USERS_ = filter(lambda _VAR_1 : not any(_ARGS_), _VAR_USERS_)
+_STAT_MULTI_
+for _VAR_USER_ in _VAR_USERS:
+    (FOLLOW_PLACEHOLDER)

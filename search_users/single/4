@@ -1,0 +1,1 @@
+_VAR_USER_ = _VAR_MULTI_.lookup_user(_ARGS_)

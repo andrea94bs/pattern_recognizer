@@ -1,0 +1,1 @@
+_VAR_USERS_ = [_VAR_MULTI_ for _VAR_MULTI_ in _VAR_MULTI if _EVERY_ and _EVERY_]

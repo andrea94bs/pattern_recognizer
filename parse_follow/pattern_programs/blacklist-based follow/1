@@ -1,0 +1,6 @@
+_VAR_1 = _VAR_MULTI_.statuses.filter(_ARGS_)
+for _VAR_2 in _VAR_1:
+    _STAT_MULTI_
+    _VAR_3 = _VAR_2[_VAR_4][_VAR_5]
+    if _VAR_3 in _VAR_MULTI_:
+        [FOLLOW_PLACEHOLDER]

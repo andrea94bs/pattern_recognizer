@@ -1,0 +1,3 @@
+_VAR_URL = "https://api.twitter.com/1.1/users/search.json"
+_STAT_MULTI_
+_VAR_USERS_ = _VAR_MULTI_.get(_VAR_URL_, _ARGS_)

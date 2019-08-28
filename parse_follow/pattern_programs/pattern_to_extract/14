@@ -1,0 +1,5 @@
+def _FUN_():
+	_STAT_MULTI_
+    _VAR_URL_ = 'https://api.twitter.com/1.1/friendships/create.json'
+    _STAT_MULTI_
+    _VAR_MULTI = _VAR_MULTI_.request(_VAR_URL_ , _ARGS_)

@@ -1,0 +1,3 @@
+if _VAR_TO_FOLLOW_ not in _VAR_MULTI_:
+    _STAT_MULTI_
+    (FOLLOW_PLACEHOLDER)

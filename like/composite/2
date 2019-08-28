@@ -1,0 +1,3 @@
+_VAR_URL_ = "https://api.twitter.com/1.1/favorites/create.json"
+_STAT_MULTI_
+post(_VAR_URL_, _ARGS_)

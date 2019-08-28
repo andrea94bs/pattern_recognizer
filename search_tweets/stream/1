@@ -1,0 +1,2 @@
+def on_data(_ARGS_):
+    _STAT_MULTI_

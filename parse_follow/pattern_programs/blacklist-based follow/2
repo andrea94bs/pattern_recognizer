@@ -1,0 +1,5 @@
+_VAR_1 = _BIN_OPS_ - set(_VAR_3)
+_STAT_MULTI_
+for _VAR_TO_FOLLOW_ in _VAR_1:
+    _STAT_MULTI_
+    (FOLLOW_PLACEHOLDER)

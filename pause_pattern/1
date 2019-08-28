@@ -1,0 +1,1 @@
+_VAR_MULTI_.sleep(_ARGS_)
